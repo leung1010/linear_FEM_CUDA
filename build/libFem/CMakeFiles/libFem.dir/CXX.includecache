@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/liangqx/linearFEMGPU/libFem/src/libFEM.cpp
+libFEM.h
+/home/liangqx/linearFEMGPU/libFem/src/libFEM.h
+iostream
+-
+
+/home/liangqx/linearFEMGPU/libFem/src/libFEM.h
+Eigen/Dense
+-
+

@@ -1,0 +1,17 @@
+/home/liangqx/linearFEMGPU/build/CMakeFiles/rebuild_cache.dir
+/home/liangqx/linearFEMGPU/build/CMakeFiles/edit_cache.dir
+/home/liangqx/linearFEMGPU/build/femSolver/CMakeFiles/rebuild_cache.dir
+/home/liangqx/linearFEMGPU/build/femSolver/CMakeFiles/edit_cache.dir
+/home/liangqx/linearFEMGPU/build/femSolver/CMakeFiles/FEMSolver.dir
+/home/liangqx/linearFEMGPU/build/cuFem/CMakeFiles/edit_cache.dir
+/home/liangqx/linearFEMGPU/build/cuFem/CMakeFiles/rebuild_cache.dir
+/home/liangqx/linearFEMGPU/build/cuFem/CMakeFiles/cuFEM.dir
+/home/liangqx/linearFEMGPU/build/launcher/CMakeFiles/rebuild_cache.dir
+/home/liangqx/linearFEMGPU/build/launcher/CMakeFiles/edit_cache.dir
+/home/liangqx/linearFEMGPU/build/launcher/CMakeFiles/main.dir
+/home/liangqx/linearFEMGPU/build/libFem/CMakeFiles/rebuild_cache.dir
+/home/liangqx/linearFEMGPU/build/libFem/CMakeFiles/edit_cache.dir
+/home/liangqx/linearFEMGPU/build/libFem/CMakeFiles/libFem.dir
+/home/liangqx/linearFEMGPU/build/preProcessor/CMakeFiles/rebuild_cache.dir
+/home/liangqx/linearFEMGPU/build/preProcessor/CMakeFiles/edit_cache.dir
+/home/liangqx/linearFEMGPU/build/preProcessor/CMakeFiles/preprocessor.dir

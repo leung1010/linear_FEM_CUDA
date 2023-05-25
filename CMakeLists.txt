@@ -1,0 +1,16 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 3.10)
+
+project(cufemsolver)
+
+ADD_SUBDIRECTORY(./femSolver)
+
+ADD_SUBDIRECTORY(./cuFem)
+
+ADD_SUBDIRECTORY(./launcher)
+
+ADD_SUBDIRECTORY(./libFem)
+
+ADD_SUBDIRECTORY(./preProcessor)
+
+
+

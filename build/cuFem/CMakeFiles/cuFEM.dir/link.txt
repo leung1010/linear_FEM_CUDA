@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcuFEM.a  CMakeFiles/cuFEM.dir/src/cuFEM_generated_cuFEM.cu.o
+/usr/bin/ranlib libcuFEM.a

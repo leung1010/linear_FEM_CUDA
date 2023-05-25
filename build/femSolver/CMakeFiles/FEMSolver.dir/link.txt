@@ -1,0 +1,2 @@
+/usr/bin/ar qc libFEMSolver.a  CMakeFiles/FEMSolver.dir/src/FEMSolver.cpp.o
+/usr/bin/ranlib libFEMSolver.a
